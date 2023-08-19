@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkarknight_s_story=self.webpackChunkarknight_s_story||[]).push([[2929],{6130:t=>{t.exports=JSON.parse('{"label":"hola","permalink":"/ArknightSStory/blog/tags/hola","allTagsPath":"/ArknightSStory/blog/tags","count":1}')}}]);
