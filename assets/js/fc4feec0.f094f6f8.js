@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkarknight_s_story=self.webpackChunkarknight_s_story||[]).push([[8182],{4392:t=>{t.exports=JSON.parse('{"permalink":"/ArknightSStory/blog/tags/hola","page":1,"postsPerPage":10,"totalPages":1,"totalCount":1,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);
